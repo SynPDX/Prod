@@ -327,7 +327,7 @@ namespace Server.Menus.Questions
 
                     Map destMap;
                     if (m_Mobile.Map == Map.Trammel || SpellHelper.IsEodon(m_Mobile.Map, m_Mobile.Location))
-                        destMap = Map.Trammel;
+                        destMap = Map.Felucca;
                     else if (m_Mobile.Map == Map.Felucca)
                         destMap = Map.Felucca;
                     else if (m_Mobile.Map == Map.TerMur && !SpellHelper.IsEodon(m_Mobile.Map, m_Mobile.Location))

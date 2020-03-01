@@ -78,7 +78,7 @@ namespace Server.Engines.Plants
 		public Seed( PlantType plantType, PlantHue plantHue, bool showType ) : base( 0xDCF )
 		{
 			Weight = 1.0;
-			Stackable = Core.SA;
+			Stackable = true;
 
 			m_PlantType = plantType;
 			m_PlantHue = plantHue;
