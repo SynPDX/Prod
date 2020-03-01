@@ -2338,7 +2338,7 @@ namespace Server.Mobiles
 					}
 				}
 
-                if (Core.SA)
+                if (Core.ML)
                 {
                     list.Add(new TitlesMenuEntry(this));
 				}
