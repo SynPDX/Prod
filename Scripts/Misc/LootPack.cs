@@ -951,7 +951,7 @@ namespace Server
 
         private static readonly SpellbookType[] m_BookTypes = new[]
         {
-            SpellbookType.Regular, SpellbookType.Necromancer, SpellbookType.Mystic
+            SpellbookType.Regular, SpellbookType.Necromancer, //SpellbookType.Mystic
         };
 
         private static readonly int[][] m_ScrollIndexMin = new[]
