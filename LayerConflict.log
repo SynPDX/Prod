@@ -1,0 +1,204 @@
+# 3/1/2020 7:36:27 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x3FC "Kirby"]
+Offending Item: 0x400034AE "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x400034AC "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 7:36:27 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x583 "Baldwin"]
+Offending Item: 0x40003B70 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x40003B6E "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 7:36:27 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x7DA "Kalle"]
+Offending Item: 0x40004859 "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x40004857 "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 7:36:27 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x9CD "Merill"]
+Offending Item: 0x40005215 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x40005213 "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 7:36:27 PM
+Offending Mobile: Server.Mobiles.Necromancer [0xB9F "Alonzo"]
+Offending Item: 0x40005B54 "Shoes" [Server.Items.Shoes]
+Equipped Item: 0x40005B50 "Shoes" [Server.Items.Shoes]
+Layer: Shoes
+
+# 3/1/2020 7:36:27 PM
+Offending Mobile: Server.Mobiles.Necromancer [0xB9F "Alonzo"]
+Offending Item: 0x40005B56 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x40005B4F "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 7:36:27 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x1023 "Robi"]
+Offending Item: 0x40007492 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x40007490 "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 7:42:10 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x3079 "Diedre"]
+Offending Item: 0x4000DE50 "Shoes" [Server.Items.Shoes]
+Equipped Item: 0x4000DE4C "Shoes" [Server.Items.Shoes]
+Layer: Shoes
+
+# 3/1/2020 7:42:10 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x3079 "Diedre"]
+Offending Item: 0x4000DE52 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x4000DE4B "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 9:01:55 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x1470 "Saraid"]
+Offending Item: 0x4001E478 "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x4001E476 "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:01:55 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x1485 "Earl"]
+Offending Item: 0x4001E507 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x4001E505 "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 9:01:55 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x149D "Luisa"]
+Offending Item: 0x4001E58F "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x4001E58D "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:01:55 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x14B2 "Alice"]
+Offending Item: 0x4001E625 "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x4001E623 "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:01:55 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x14C5 "Hilda"]
+Offending Item: 0x4001E6C3 "Shoes" [Server.Items.Shoes]
+Equipped Item: 0x4001E6BF "Shoes" [Server.Items.Shoes]
+Layer: Shoes
+
+# 3/1/2020 9:01:55 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x14C5 "Hilda"]
+Offending Item: 0x4001E6C5 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x4001E6BE "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 9:01:55 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x14F0 "Dwight"]
+Offending Item: 0x4001E7DC "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x4001E7DA "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 9:14:46 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x74A "Afina"]
+Offending Item: 0x40017CAA "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x40017CA8 "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:14:46 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x8D2 "Louise"]
+Offending Item: 0x40018338 "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x40018336 "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:14:46 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0xB2A "Roxana"]
+Offending Item: 0x40019002 "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x40019000 "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:14:46 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0xD1F "Samuel"]
+Offending Item: 0x400199D5 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x400199D3 "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 9:14:46 PM
+Offending Mobile: Server.Mobiles.Necromancer [0xEED "Warren"]
+Offending Item: 0x4001A35C "Shoes" [Server.Items.Shoes]
+Equipped Item: 0x4001A358 "Shoes" [Server.Items.Shoes]
+Layer: Shoes
+
+# 3/1/2020 9:14:46 PM
+Offending Mobile: Server.Mobiles.Necromancer [0xEED "Warren"]
+Offending Item: 0x4001A35E "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x4001A357 "FancyShirt" [Server.Items.FancyShirt]
+Layer: Shirt
+
+# 3/1/2020 9:14:46 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x136A "Ethan"]
+Offending Item: 0x4001BCF0 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x4001BCEE "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 9:17:46 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x2658 "Briac"]
+Offending Item: 0x40021148 "Shoes" [Server.Items.Shoes]
+Equipped Item: 0x40021144 "Shoes" [Server.Items.Shoes]
+Layer: Shoes
+
+# 3/1/2020 9:17:46 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x2658 "Briac"]
+Offending Item: 0x4002114A "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x40021143 "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 9:55:02 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x5C3A "Madeline"]
+Offending Item: 0x4002A019 "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x4002A017 "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:55:02 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x5DC2 "Sakari"]
+Offending Item: 0x4002A6FE "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x4002A6FC "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:55:02 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x601A "Kayla"]
+Offending Item: 0x4002B3E6 "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x4002B3E4 "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:55:02 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x620F "Harrison"]
+Offending Item: 0x4002BDC2 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x4002BDC0 "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 9:55:02 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x63E1 "Senon"]
+Offending Item: 0x4002C6FC "Shoes" [Server.Items.Shoes]
+Equipped Item: 0x4002C6F8 "Shoes" [Server.Items.Shoes]
+Layer: Shoes
+
+# 3/1/2020 9:55:02 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x63E1 "Senon"]
+Offending Item: 0x4002C6FE "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x4002C6F7 "Shirt" [Server.Items.Shirt]
+Layer: Shirt
+
+# 3/1/2020 9:55:02 PM
+Offending Mobile: Server.Engines.Quests.NewHavenMerchant [0x685E "Joan"]
+Offending Item: 0x4002E006 "FancyDress" [Server.Items.FancyDress]
+Equipped Item: 0x4002E004 "PlainDress" [Server.Items.PlainDress]
+Layer: OuterTorso
+
+# 3/1/2020 9:57:39 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x7928 "Kirby"]
+Offending Item: 0x40032D42 "Shoes" [Server.Items.Shoes]
+Equipped Item: 0x40032D3E "Shoes" [Server.Items.Shoes]
+Layer: Shoes
+
+# 3/1/2020 9:57:39 PM
+Offending Mobile: Server.Mobiles.Necromancer [0x7928 "Kirby"]
+Offending Item: 0x40032D44 "FancyShirt" [Server.Items.FancyShirt]
+Equipped Item: 0x40032D3D "FancyShirt" [Server.Items.FancyShirt]
+Layer: Shirt
+
